@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637957817781",
+    "project_id": "beezafe-prb1",
+    "storage_bucket": "beezafe-prb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637957817781:android:aba0f12c33ef95ac6245fc",
+        "android_client_info": {
+          "package_name": "mx.com.BeeZafe.beezafe_mvl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeM-XF9CAWKivfnacsw2hyurhPUUNOp44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637957817781:android:e9f53e6236d27d206245fc",
+        "android_client_info": {
+          "package_name": "mx.com.BeeZafe.beezafem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeM-XF9CAWKivfnacsw2hyurhPUUNOp44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
